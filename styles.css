@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <title id="title"> Elon Musk Tribute Page </title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+<h1> Elon Musk Tribute Page </h1> <p> A tribute to Elon Musk</p>
+     <figure id="img-div"> <img id="image" src="https://img.etimg.com/thumb/msid-84588036,width-650,imgsize-109325,,resizemode-4,quality-100/elon-musk.jpg"></img><figcaption id="img-caption">A picture of Elon Musk saluting.</figcaption></figure>
+      <section>
+<h2> A list of Elon's achievments.</h2>
+<ul id="ul">
+  <li><h3>Elon is the co-founder of Nuralink.</h3><p>Neuralink's goal is to build something called a "brain computer interface" that allows people to transmit and receive information between their brain and a computer wirelessly, according to Neuralink's website. <a target="_blank" href="https://en.wikipedia.org/wiki/Neuralink">Source</a> </li>
+  <li><h3>Elon is the angel investor, CEO, and product architect of Tesla.</h3><p>Tesla Motors was founded as an electric carmaker by engineers Martin Eberhard and Marc Tarpenning in 2003. Elon Musk, co-founder of Paypal, led the initial rounds of investing for Tesla before taking over as CEO. In 2008, Tesla released its first electric car, the Roadster. <a target="_blank" href="https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp">Source</a>
+    </li>
+    <li><h3>Elon is the founder of SpaceX.</h3><p>SpaceX is an American aerospace company founded in 2002 by Elon Musk that helped usher in the era of commercial spaceflight. Its name in full is Space Exploration Technologies Corporation. <a target="_blank" href="https://www.britannica.com/topic/SpaceX">Source</a> </p>
+    </li>
+    <footer id="tribute-info"><p> Tribute <a target="_blank" id="tribute-link" href="https://en.wikipedia.org/wiki/Elon_Musk">"Click Here"</a> for more information.</p>
+      </footer>
+        </section>
+        </main>
+        </body>
+        </html>
